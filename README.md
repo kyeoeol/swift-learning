@@ -1,6 +1,6 @@
 # Let's learn Swift :)
 
 ### Link
-- https://developer.apple.com/documentation/swift
-- https://www.swift.org
-- https://github.com/kyeoeol/swift-learning/wiki
+- **documentation:** https://developer.apple.com/documentation/swift
+- **swift.org:** https://www.swift.org
+- **wiki:** https://github.com/kyeoeol/swift-learning/wiki
