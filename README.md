@@ -5,4 +5,5 @@
 - **swift.org:** https://www.swift.org
 
 ### Wiki
+- <a href="https://github.com/kyeoeol/swift-learning/wiki/@dynamicMemberLookup">@dynamicMemberLookup</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/@propertyWrapper">@propertyWrapper</a>
