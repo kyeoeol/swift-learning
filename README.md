@@ -1,8 +1,8 @@
 # Let's learn Swift :)
 
 ### Link
-- **documentation:** https://developer.apple.com/documentation/swift
-- **swift.org:** https://www.swift.org
+- <a href="https://developer.apple.com/documentation/swift">documentation</a>
+- <a href="https://www.swift.org">swift.org</a>
 
 ### Wiki
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/Semaphore">Semaphore</a>
