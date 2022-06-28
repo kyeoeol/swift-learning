@@ -15,4 +15,4 @@
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/sort()">sort()</a>
 
 ### Tips
-- <a href=""></a>
+- <a href="https://github.com/kyeoeol/swift-learning/wiki/Array-중복-제거">Array 중복 제거</a>
