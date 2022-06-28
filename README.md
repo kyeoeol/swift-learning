@@ -13,3 +13,6 @@
 ### Swift Instance Method
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/hasPrefix(_:)">hasPrefix(_:)</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/sort()">sort()</a>
+
+### Tips
+- <a href=""></a>
