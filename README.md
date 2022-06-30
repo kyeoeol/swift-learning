@@ -5,7 +5,7 @@
 - <a href="https://www.swift.org">swift.org</a>
 
 ### Article
-- <a href="">Choosing Between Structures and Classes</a>
+- <a href="https://github.com/kyeoeol/swift-learning/wiki/Choosing-Between-Structures-and-Classes">Choosing Between Structures and Classes</a>
 
 ### Wiki
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/Semaphore">Semaphore</a>
