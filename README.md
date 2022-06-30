@@ -4,6 +4,9 @@
 - <a href="https://developer.apple.com/documentation/swift">documentation</a>
 - <a href="https://www.swift.org">swift.org</a>
 
+### Article
+- <a href="">Choosing Between Structures and Classes</a>
+
 ### Wiki
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/Semaphore">Semaphore</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/GCD(Grand-Central-Dispatch)">GCD(Grand Central Dispatch)</a>
