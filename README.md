@@ -18,5 +18,6 @@
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/sort()">sort()</a>
 
 ### Tips
+- <a href="https://github.com/kyeoeol/swift-learning/wiki/Setup-cornerRadius-in-a-specific-direction">Setup cornerRadius in a specific direction</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/UIImage,-CIImage,-CGImage-간-이미지-변환">UIImage, CIImage, CGImage 간 이미지 변환</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/Array-중복-제거">Array 중복 제거</a>
