@@ -8,7 +8,7 @@
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/Choosing-Between-Structures-and-Classes">Choosing Between Structures and Classes</a>
 
 ### Wiki
-- <a href="">Access Control</a>
+- <a href="https://github.com/kyeoeol/swift-learning/wiki/Access-Control">Access Control</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/Semaphore">Semaphore</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/GCD(Grand-Central-Dispatch)">GCD(Grand Central Dispatch)</a>
 - <a href="https://github.com/kyeoeol/swift-learning/wiki/@dynamicMemberLookup">@dynamicMemberLookup</a>
